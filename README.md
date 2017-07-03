@@ -1,7 +1,7 @@
 # MLX90614-Infrared-Thermometer
 Arduino code for the MLX90614-Infrared-Thermometer
 
-For complete hookup and tutorial see: http://adam-meyer.com/arduino/mlx90614-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/mlx90614
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
