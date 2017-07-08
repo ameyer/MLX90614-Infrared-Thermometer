@@ -14,3 +14,5 @@ The I2Cmaster library however is provided under the GPL license.
 * On your Mac:: In (home directory)/Documents/Arduino/libraries  
 * On your PC:: My Documents -> Arduino -> libraries  
 * On your Linux box: (home directory)/sketchbook/libraries  
+
+For all my arduino articles: http://adam-meyer.com/arduino/
